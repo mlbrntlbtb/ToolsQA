@@ -1,0 +1,10 @@
+C:\Users\Melbourne\source\repos\ToolsQA\ToolsQA\bin\Release\ToolsQA.exe.config
+C:\Users\Melbourne\source\repos\ToolsQA\ToolsQA\bin\Release\ToolsQA.exe
+C:\Users\Melbourne\source\repos\ToolsQA\ToolsQA\bin\Release\ToolsQA.pdb
+C:\Users\Melbourne\source\repos\ToolsQA\ToolsQA\bin\Release\WebDriver.dll
+C:\Users\Melbourne\source\repos\ToolsQA\ToolsQA\obj\Release\ToolsQA.csproj.AssemblyReference.cache
+C:\Users\Melbourne\source\repos\ToolsQA\ToolsQA\obj\Release\ToolsQA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Melbourne\source\repos\ToolsQA\ToolsQA\obj\Release\ToolsQA.csproj.CoreCompileInputs.cache
+C:\Users\Melbourne\source\repos\ToolsQA\ToolsQA\obj\Release\ToolsQA.csproj.CopyComplete
+C:\Users\Melbourne\source\repos\ToolsQA\ToolsQA\obj\Release\ToolsQA.exe
+C:\Users\Melbourne\source\repos\ToolsQA\ToolsQA\obj\Release\ToolsQA.pdb

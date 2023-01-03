@@ -1,0 +1,216 @@
+﻿++Solution 'ToolsQA' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:ToolsQA.sln
+++ToolsQA
+i:{00000000-0000-0000-0000-000000000000}:ToolsQA
+++Properties
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\properties\
+++References
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++Configurations
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\configurations\
+++Extensions
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\extensions\
+++PageObjectDesign
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\pageobjectdesign\
+++PageObjects
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\pageobjectdesign\pageobjects\
+++TestCases
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\pageobjectdesign\testcases\
+++LoginToLoginPage.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\pageobjectdesign\testcases\logintologinpage.cs
+++LoginUsingExtensions.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\pageobjectdesign\testcases\loginusingextensions.cs
+++LoginUsingPageFactory.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\pageobjectdesign\testcases\loginusingpagefactory.cs
+++LoginUsingWebDriverFactory.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\pageobjectdesign\testcases\loginusingwebdriverfactory.cs
+++Selenium Basics
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\selenium basics\
+++TestDataAccess
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\testdataaccess\
+++WrapperFactory
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\wrapperfactory\
+++App.config
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\app.config
+++MainClass.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\mainclass.cs
+++packages.config
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\packages.config
+++runtests.cmd
+++SpecRunTestProfile.xsd
+++SpecRunTestProfile_2011_09.xsd
+++AssemblyInfo.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\properties\assemblyinfo.cs
+++Aspose.Cells
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++BoDi
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++CsvHelper
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++Dapper
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++DotNetZip
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++Gherkin
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++HtmlAgilityPack
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++ICSharpCode.SharpZipLib
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++Microsoft.Bcl.AsyncInterfaces
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++Microsoft.Bcl.HashCode
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++Microsoft.CSharp
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++Microsoft.Office.Interop.Excel
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++Microsoft.VisualBasic
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++Microsoft.Win32.Registry
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++Newtonsoft.Json
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++nunit.framework
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++Pj.Library
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++Pj.Library.Secure
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++Pj.Library.ThirdParty
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++Selenium.Essentials
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++SeleniumExtras.PageObjects
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++SeleniumExtras.WaitHelpers
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++SpecFlow.Internal.Json
+++SpecRun.Runtime.SpecFlowPlugin
+++System
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++System.Buffers
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++System.Configuration
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++System.Configuration.ConfigurationManager
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++System.Core
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++System.Data
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++System.Data.DataSetExtensions
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++System.Data.OracleClient
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++System.Drawing
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++System.Memory
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++System.Net
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++System.Net.Http
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++System.Numerics
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++System.Numerics.Vectors
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++System.Reflection.DispatchProxy
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++System.Runtime.CompilerServices.Unsafe
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++System.Security
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++System.Security.AccessControl
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++System.Security.Permissions
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++System.Security.Principal.Windows
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++System.ServiceProcess
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++System.Threading.Tasks.Extensions
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++System.Transactions
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++System.ValueTuple
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++System.Web.Extensions
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++System.Xml
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++System.Xml.Linq
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++TechTalk.SpecFlow
+++TechTalk.SpecRun
+++TechTalk.SpecRun.Common
+++TestAny.Essentials.Api
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++TestAny.Essentials.Core
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++TimeZoneConverter
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++WebDriver
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++WebDriver.Support
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++WindowsBase
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:
+++Environment.config
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\configurations\environment.config
+++Element_Extensions.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\extensions\element_extensions.cs
+++LoginPage.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\pageobjectdesign\pageobjects\loginpage.cs
+++LoginPageUsingExtensions.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\pageobjectdesign\pageobjects\loginpageusingextensions.cs
+++LoginPageUsingPageFactory.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\pageobjectdesign\pageobjects\loginpageusingpagefactory.cs
+++Page.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\pageobjectdesign\pageobjects\page.cs
+++SeleniumAutoIt.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\selenium basics\seleniumautoit.cs
+++SeleniumBaseTest.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\selenium basics\seleniumbasetest.cs
+++SeleniumBrowserNavigation.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\selenium basics\seleniumbrowsernavigation.cs
+++SeleniumCapabilities.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\selenium basics\seleniumcapabilities.cs
+++SeleniumElementCommands.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\selenium basics\seleniumelementcommands.cs
+++SeleniumExceptions.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\selenium basics\seleniumexceptions.cs
+++SeleniumExplicitWaits.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\selenium basics\seleniumexplicitwaits.cs
+++SeleniumFindElement.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\selenium basics\seleniumfindelement.cs
+++SeleniumFluentWait.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\selenium basics\seleniumfluentwait.cs
+++SeleniumGrid.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\selenium basics\seleniumgrid.cs
+++SeleniumHeadlessBrowser.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\selenium basics\seleniumheadlessbrowser.cs
+++SeleniumIAlert.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\selenium basics\seleniumialert.cs
+++SeleniumIJavaScriptExecutor.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\selenium basics\seleniumijavascriptexecutor.cs
+++SeleniumIWebDriver.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\selenium basics\seleniumiwebdriver.cs
+++SeleniumMultipleBrowsers.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\selenium basics\seleniummultiplebrowsers.cs
+++SeleniumScreenshot.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\selenium basics\seleniumscreenshot.cs
+++SeleniumSelectElement.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\selenium basics\seleniumselectelement.cs
+++SeleniumSelections.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\selenium basics\seleniumselections.cs
+++SeleniumSwitchCommands.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\selenium basics\seleniumswitchcommands.cs
+++SeleniumWebTables.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\selenium basics\seleniumwebtables.cs
+++CSVHelper.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\testdataaccess\csvhelper.cs
+++TestData.csv
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\testdataaccess\testdata.csv
+++WebDriverFactory.cs
+i:{c8e804ef-987e-4fbc-b1e3-415fc660f35f}:c:\users\melbourne\source\repos\toolsqa\toolsqa\wrapperfactory\webdriverfactory.cs
